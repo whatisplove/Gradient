@@ -1,0 +1,10 @@
+.radial-gradient {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 100vh;
+  width: 100vw;
+  /*Fallback if gradeints don't work */
+  background: white;
+  /*Linear gradient... */
+}
